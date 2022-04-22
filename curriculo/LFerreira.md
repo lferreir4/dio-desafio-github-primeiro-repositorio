@@ -22,9 +22,7 @@ Ingressar na GFT através do Bootcamp **GFT Start Woman Java**
 
 ####                                                Perfil
 
-Possuo experiência baseada em administração de escritório com ênfase na área de TI. Meus últimos cargos me deram a oportunidade de viajar para outros países e realizar cursos de aprimoramento. Minha meta é fazer a transição de carreira para a área de desenvolvimento em TI. No momento estudo vários cursos e bootcamps com o intuito de ingressar nesta área.
-
-####                            
+Possuo experiência baseada em administração de escritório com ênfase na área de TI. Meus últimos cargos me deram a oportunidade de viajar para outros países e realizar cursos de aprimoramento. Sou bilingue - Inglês - Português e minha meta é fazer a transição de carreira para a área de desenvolvimento em TI. No momento estudo vários cursos e bootcamps com o intuito de ingressar nesta área.
 
 ------
 
@@ -40,15 +38,31 @@ Administração de empresas
 
 ------
 
+#### Career Break
+
+- Jan 2019 - Atual 
+
+  Em 2021, devido ao tratamento de um câncer que foi descoberto rapidamente, parei minha carreira. Tive alta no ano passado, entretanto nunca parei de estudar.
+
+- Intercâmbio -Los Angeles - Dez 2016 / Maio 2017
+
+------
+
 
 
 ####                                               Experiência Profissional👩‍💼
 
 
 
+**Latam Airlines**
+
+   Travel consultant  Out 2017 - May 2018
+
+
+
 **EMGS do Brasil - Rio de Janeiro**
 
-Office Manager - Dez 2015 – Jun 2019
+Office Manager - Dez 2015 – Nov 2016
 
 Administração do único escritório da empresa no Brasil. Trabalho em conjunto aos projetos relacionados aos sistemas e infraestrutura de testes de softwares, próprios da empresa de geofísica eletromagnética. Projetos concluídos com parceria da Petrobras.
 
